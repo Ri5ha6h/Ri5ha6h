@@ -2,7 +2,7 @@
 <h3 align="center">A Front-End developer from Meerut, India.</h3>
 
 
-- 🔭 Currently working in [AllEvents](https://allevents.in/)
+- 🔭 Currently working in [AlignBits LLC](https://alignbits.com/)
 
 - 👨‍💻 All of my projects are available at [Coming Soon](#link)
 
